@@ -1,0 +1,6 @@
+- pipeline: enyuprfcan
+  events:
+  - type: PUSH
+    refs:
+    - refs/heads/master
+    - apljkwwtac
